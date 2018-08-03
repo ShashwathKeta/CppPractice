@@ -1,0 +1,4 @@
+﻿  FibinocciSequence.cpp
+c:\users\shash\source\repos\fibinoccisequence\fibinoccisequence\fibinoccisequence.cpp(11): warning C4101: 'n2': unreferenced local variable
+c:\users\shash\source\repos\fibinoccisequence\fibinoccisequence\fibinoccisequence.cpp(11): warning C4101: 'n1': unreferenced local variable
+  FibinocciSequence.vcxproj -> C:\Users\Shash\source\repos\FibinocciSequence\Debug\FibinocciSequence.exe

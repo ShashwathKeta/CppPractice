@@ -1,0 +1,4 @@
+﻿  ForWhileLoopPractice.cpp
+c:\users\shash\source\repos\forwhilelooppractice\forwhilelooppractice\forwhilelooppractice.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\shash\source\repos\forwhilelooppractice\forwhilelooppractice\forwhilelooppractice.cpp(55): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ForWhileLoopPractice.vcxproj -> C:\Users\Shash\source\repos\ForWhileLoopPractice\Debug\ForWhileLoopPractice.exe

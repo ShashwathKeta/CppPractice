@@ -1,0 +1,4 @@
+﻿  ProgressCheck.cpp
+c:\users\shash\source\repos\progresscheck\progresscheck\progresscheck.cpp(87): warning C4715: 'findHighest': not all control paths return a value
+c:\users\shash\source\repos\progresscheck\progresscheck\progresscheck.cpp(69): warning C4715: 'findLowest': not all control paths return a value
+  ProgressCheck.vcxproj -> C:\Users\Shash\source\repos\ProgressCheck\Debug\ProgressCheck.exe
